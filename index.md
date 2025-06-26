@@ -2,16 +2,16 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 I am currently a Postdoctoral Research Associate at the [C2SMART University Transportation Center](https://c2smarter.engineering.nyu.edu/) at New York University. I earned my Ph.D. in Transportation from NYU in 2024, advised by Prod. [Joseph Chow](https://engineering.nyu.edu/faculty/joseph-chow). Prior to my time at NYU, I completed my Master's and Bachelor's degrees in Urban Planning at Tongji University. 
+
+---
 
 As an urban and transportation scientist, I focus on the intersection of **Urban Comptuing**, **Choice Modeling**, and **Transportation Logistics**:
 
 - **Urban Computing and AI**: Leaveraging mobility, image, and text data along with deep learning computation to explore land use patterns, urban park visits, and climate change sentiments.
-
 - **Choice Modeling with Large-scale Dataset**: Developing nonparametric mixed logit models to estimate taste heterogeneity in activity schedules, travel modes, and multimodal trip routes; applying these models to assess the impacts of emerging services, congestion pricing, and EV charging infrastructure on mobility, economy, and social equity.
-
 - **Logistics Systems for Transportation Equity**: Combining mathematical programming and equity metrics to support city- and state-wide mobility service design; quantifying trade-offs between transportation efficiency and equity, as well as among different stakeholder groups. 
 
 ---
