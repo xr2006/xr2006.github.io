@@ -33,9 +33,3 @@ ul {
   padding-left: 1.25em !important;       /* indent whole list */
   margin-bottom: 1.25em !important;      /* same gap as paragraphs */
 }
-
-/* Many themes draw custom bullets with ::before ─ remove them */
-ul li::marker,          /* modern browsers */
-ul li::before {         /* fallback for older themes */
-  content: none !important;
-}
