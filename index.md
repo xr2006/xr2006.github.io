@@ -4,24 +4,15 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+I am currently a Postdoctoral Research Associate at the [C2SMART University Transportation Center](https://c2smarter.engineering.nyu.edu/) at New York University. I earned my Ph.D. in Transportation from NYU in 2024, advised by Prod. [Joseph Chow](https://engineering.nyu.edu/faculty/joseph-chow). Prior to my time at NYU, I completed my Master's and Bachelor's degrees in Urban Planning at Tongji University. 
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+As an urban and transportation scientist, I focus on the intersection of **Urban Comptuing**, **Choice Modeling**, and **Transportation Logistics**:
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+- **Urban Computing and AI**: Leaveraging mobility, image, and text data along with deep learning computation to explore land use patterns, urban park visits, and climate change sentiments.
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+- **Choice Modeling with Large-scale Dataset**: Developing nonparametric mixed logit models to estimate taste heterogeneity in activity schedules, travel modes, and multimodal trip routes; applying these models to assess the impacts of emerging services, congestion pricing, and EV charging infrastructure on mobility, economy, and social equity.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
-
----
-
-## Research Interests
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+- **Logistics Systems for Transportation Equity**: Combining mathematical programming and equity metrics to support city- and state-wide mobility service design; quantifying trade-offs between transportation efficiency and equity, as well as among different stakeholder groups. 
 
 ---
 
