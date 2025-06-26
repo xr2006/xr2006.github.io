@@ -7,29 +7,3 @@ p, li, a, blockquote, code {
                "Segoe UI", Roboto, Helvetica, Arial,
                sans-serif !important;
 }
-
-/* --- paragraph formatting override --- */
-p {
-  /* remove first-line indent the theme adds */
-  text-indent: 0 !important;
-
-  /* add vertical space between paragraphs       */
-  /* (adjust 1.25em to taste: 1em = current font size) */
-  margin: 0 0 1.25em !important;
-}
-
-/* optional: give lists the same bottom spacing */
-ul, ol {
-  margin-bottom: 1.25em !important;
-}
-
-ul {
-  list-style-type: disc !important;   /* round (circle-filled) bullets   */
-  margin-left: 1.5em;                 /* keeps text nicely indented      */
-}
-
-ul {
-  list-style: disc outside !important;   /* filled circles */
-  padding-left: 1.25em !important;       /* indent whole list */
-  margin-bottom: 1.25em !important;      /* same gap as paragraphs */
-}
