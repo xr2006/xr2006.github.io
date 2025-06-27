@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About Me
+### About Me
 
 I am currently a Postdoctoral Research Associate at the [C2SMART University Transportation Center](https://c2smarter.engineering.nyu.edu/) at New York University. I earned my Ph.D. in Transportation from NYU in 2024, advised by Prod. [Joseph Chow](https://engineering.nyu.edu/faculty/joseph-chow). Prior to my time at NYU, I completed my Master's and Bachelor's degrees in Urban Planning at Tongji University. 
 
@@ -16,7 +16,7 @@ As an urban and transportation scientist, I focus on the intersection of **Urban
 
 ---
 
-## News and Updates
+### News and Updates
 
 - **June 2025**: My first-authored paper "Planning for rhythmized urban parks: Temporal park classification and modes of action" has been published on *Journal of the American Planning Association*!
 - **April 2025**: My first-authored paper "Nonparametric mixed logit model with market-level parameters estimated from market share data" has been published on *Transportation Research Part B: Methodological*!
