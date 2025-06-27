@@ -18,10 +18,13 @@ As an urban and transportation scientist, I focus on the intersection of **Urban
 
 ## News and Updates
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **June 2025**: My first-authored paper "Planning for rhythmized urban parks: Temporal park classification and modes of action" has been published on *Journal of the American Planning Association*!
+- **April 2025**: My first-authored paper "Nonparametric mixed logit model with market-level parameters estimated from market share data" has been published on *Transportation Research Part B: Methodological*!
+- **October 2024**: Delighted to be invited to Harvard-MIT Economics and Policy of Electric Vehicle Transportation Infrastructure Workshop!
+- **July 2024**: My first-authored paper "Mobility service design with equity-aware choice-based decision-support tool: New York case study" has been published on *Transportation Research Part D: Transport and Environment*!
+- **July 2024**: Delighted to be invited to International Urban Planning Salon hold in Peking University. See you in Beijing!
+- **December 2022**: My first-authored paper "A random-utility-consistent machine learning method to estimate agents’ joint activity scheduling choice from a ubiquitous data set" has been published on *Transportation Research Part B: Methodological*!
+- **October 2022**: My first_authored paper "Evaluating geographic and social inequity of urban parks in Shanghai through mobile phone-derived human activities" has been published on *Urban Forestry & Urban Greening*!
+- **July 2022**: My first-authored paper "Exploring land use functional variance using mobile phone derived human activity data in Shanghai" has been published on *Environment and Planning B: Urban Analytics and City Science*!
 
 <br>
