@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /projects/index.html
+title: Projects
 ---
 
 > Update: 20th Sep 2024
