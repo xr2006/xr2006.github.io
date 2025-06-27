@@ -8,7 +8,7 @@ title: Publications
 
 ### Peer-reviewed Publications
 
-- <u>Ren, X.</u>, Chow, J. Y.<sup>*</sup>, Bansal P. (2025). Nonparametric mixed logit model with market-level parameters estimated from market share data. *Transportation Research Part B: Methodological*, 196, 103220. [[Paper]](https://doi.org/10.1016/j.trb.2025.103220)
+- <u>Ren, X.</u>, Chow, J. Y.<sup>&ast;</sup>, Bansal P. (2025). Nonparametric mixed logit model with market-level parameters estimated from market share data. *Transportation Research Part B: Methodological*, 196, 103220. [[Paper]](https://doi.org/10.1016/j.trb.2025.103220)
 
 - <u>Ren, X.</u>, Chow, J. Y.<sup>*</sup>, & Guan, C. (2024). Mobility service design with equity-aware choice-based decision-support tool: New York case study. *Transportation Research Part D: Transport and Environment*, 132, 104255. [[Paper]](https://doi.org/10.1016/j.trd.2024.104255)
 
