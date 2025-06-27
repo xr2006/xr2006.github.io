@@ -43,15 +43,15 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: Home
     url: /
-  - title: Awards
-    url: /awards/
+  - title: Projects
+    url: /projects/
   - title: Publications
     url: /publications/
 
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Hobbies
+  #   url: /hobbies/
+  # - title: Blogs
+  #   url: /blogs/
 
 
 
