@@ -55,15 +55,14 @@ title: Projects
 
 
 ### Urban Computing and AI
-<a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
-  <div class="img-card">
+<div class="img-card">
+  <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
     <img src="/images/mobility_pattern.jpg"
-         alt="Capture Pedestrian Flows"
+         alt="Land use patterns"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
-  </div>
-</a>
-<br>
+  </a>
+</div>
 <strong>
       <span>
         Human Mobility and Land Use Patterns
@@ -78,7 +77,7 @@ Land use functions can categorize places where people perform different socioeco
 <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
   <div class="img-card">
     <img src="/images/mobility_pattern.jpg"
-         alt="Capture Pedestrian Flows"
+         alt="Land use patterns"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
   </div>
