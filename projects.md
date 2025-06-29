@@ -93,6 +93,23 @@ This project proposes a paradigm shift in classifying, programming, and designin
 <br>
 
 <div class="img-card">
+  <a href="https://salatainstitute.harvard.edu/economics-and-policy-of-electric-transportation-charging-infrastructure/">
+    <img src="/images/synthetic_EV.jpg"
+         alt="EV"
+         style="width:100%">
+    <div class="overlay"><span class="btn-view">More Details</span></div>
+  </a>
+</div>
+<strong>
+      <span>
+        New York City Synthetic Electric Vehicles
+      </span>
+    </strong><br>
+This project uses National Household Travel Survey (NHTS) data, Atlas EV Registration data, and machine learning models to forecast EV ownership for a synthetic population. The proposed model predicts the number of EVs per zip code and assigns EVs to households.
+
+<br>
+
+<div class="img-card">
   <a href="https://aaa">
     <img src="/images/twitter_topics.jpg"
          alt="Twitter topics"
