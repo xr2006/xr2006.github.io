@@ -4,26 +4,78 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-> Update: 20th Sep 2024
+<br>
 
-## Scholarships
+### Urban Computing and AI
 
-June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+<table>
+<tr>
+  <!-- 1 ▸ Capture Pedestrian Flows -->
+  <td width="50%" valign="top">
+    <a href="https://example.com/pedestrian-flows">
+      <img src="assets/img/pedestrian_flows.jpg"
+           alt="Capture Pedestrian Flows"
+           style="width:100%; border-radius:4px;">
+    </a><br>
+    <strong>
+      <a href="https://example.com/pedestrian-flows">
+        Capture Pedestrian Flows with Traffic Cameras
+      </a>
+    </strong><br>
+    Detect pedestrians in 18&nbsp;million intersection photos and identify
+    patterns via time-series clustering.
+  </td>
 
-## Competitions
+  <!-- 2 ▸ Green View Index -->
+  <td width="50%" valign="top">
+    <a href="https://example.com/gvi-nyc">
+      <img src="assets/img/gvi_nyc.jpg"
+           alt="Green View Index NYC"
+           style="width:100%; border-radius:4px;">
+    </a><br>
+    <strong>
+      <a href="https://example.com/gvi-nyc">
+        Evaluate Reliability of Green View Index in NYC
+      </a>
+    </strong><br>
+    Compare the Green View Index with tree census, LiDAR, and
+    field observations to reveal measurement challenges.
+  </td>
+</tr>
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+<tr>
+  <!-- 3 ▸ Forest Change -->
+  <td width="50%" valign="top">
+    <a href="https://example.com/forest-change">
+      <img src="assets/img/forest_change.jpg"
+           alt="Detect Forest Changes"
+           style="width:100%; border-radius:4px;">
+    </a><br>
+    <strong>
+      <a href="https://example.com/forest-change">
+        Detect Forest Changes with Remote Sensing
+      </a>
+    </strong><br>
+    High-resolution change detection using Dynamic World and
+    Google Earth Engine remote-sensing data.
+  </td>
+
+  <!-- 4 ▸ Urban Greenery & Heat -->
+  <td width="50%" valign="top">
+    <a href="https://example.com/urban-heat">
+      <img src="assets/img/urban_heat.jpg"
+           alt="Urban Greenery and Excessive Heat Waves"
+           style="width:100%; border-radius:4px;">
+    </a><br>
+    <strong>
+      <a href="https://example.com/urban-heat">
+        Urban Greenery and Excessive Heat Waves
+      </a>
+    </strong><br>
+    Explore how extreme air temperature relates to urban greenery
+    in the Yangtze River Delta using GWR.
+  </td>
+</tr>
+</table>
 
 <br>
