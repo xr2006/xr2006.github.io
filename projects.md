@@ -57,7 +57,7 @@ title: Projects
 ### Urban Computing and AI
 <div class="img-card">
   <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
-    <img src="images/mobility_pattern.jpg"
+    <img src="/images/mobility_pattern.jpg"
          alt="Land use patterns"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
@@ -74,7 +74,7 @@ Land use functions can categorize places where people perform different socioeco
 
 <a href="https://urban.shanghai.nyu.edu/planning-environmentally">
   <div class="img-card">
-    <img src="images/rhythmized_parks.jpg"
+    <img src="/images/rhythmized_parks.jpg"
          alt="Rythmized Parks"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
@@ -92,7 +92,7 @@ This project proposes a paradigm shift in classifying, programming, and designin
 
 <a href="https://aaa">
   <div class="img-card">
-    <img src="images/twitter_topics.jpg"
+    <img src="/images/twitter_topics.jpg"
          alt="Twitter topics"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
@@ -111,7 +111,7 @@ Our team integrated 195 Nationally Determined Contributions (NDCs) with approxim
 ### Urban Computing and AI
 <div class="img-card">
   <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
-    <img src="images/mobility_pattern.jpg"
+    <img src="/images/mobility_pattern.jpg"
          alt="Land use patterns"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
