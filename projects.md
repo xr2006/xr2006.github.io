@@ -170,7 +170,7 @@ This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs t
 
 <div class="img-card">
   <a href="https://doi.org/10.1016/j.trd.2024.104255">
-    <img src="/images/statewide_tool.jpg"
+    <img src="images/service_design.jpg"
          alt="Decision Support Tool"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
