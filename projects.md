@@ -173,45 +173,45 @@ This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs t
 ---
 
 <div class="img-card">
-  <a href="https://doi.org/10.1016/j.trb.2022.11.005">
-    <img src="/images/AMXL_distribution.jpg"
-         alt="AMXL Distribution"
+  <a href="https://doi.org/10.1016/j.trd.2024.104255">
+    <img src="/images/decision_support_tool.jpg"
+         alt="Decision Support Tool"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
   </a>
 </div>
 <strong>
       <span>
-        Agent-based Mixed Logit Model (AMXL)
+        Equity-aware Tool for Mobility Service Design
       </span>
     </strong><br>
-We propose an agent-based mixed-logit model (AMXL) that is estimated with inverse optimization (IO) estimation. The method provides joint, individual-specific, and deterministic estimation, which overcomes the limitations of discrete choice models (DCMs) given ubiquitous datasets.
+We integrate synthetic population data and a choice-based optimization model to support large-scale mobility service region design with equity concerns. We test using New York State synthetic data and illustrate its application by considering new ride-hailing and microtransit services.
 
 <br>
 <br>
 
 <div class="img-card">
-  <a href="https://doi.org/10.1016/j.trb.2025.103220">
-    <img src="/images/GLAM_distribution.jpg"
-         alt="GLAM Distribution"
+  <a href="https://doi.org/10.48550/arXiv.2408.12577">
+    <img src="/images/microtransit.jpg"
+         alt="Microtransit"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
   </a>
 </div>
 <strong>
       <span>
-        Market-level Nonparametric Mixed Logit Model
+        Microtransit Revenue Management for Arlington Via
       </span>
     </strong><br>
-This project proposes a nonparametric mixed logit model that is estimated using market-level choice share data. The model treats each market as an agent and represents taste heterogeneity through market-specific parameters by solving a multiagent inverse utility maximization problem.
+We propose a nested nonparametric model for joint travel mode and ride pass subscription choice, estimated using marginal subscription data and synthetic populations. We apply our methodology to a case study in Arlington, TX, using synthetic data from Replica Inc. and microtransit data from Via.
 
 <br>
 <br>
 
 <div class="img-card">
   <a href="https://aaa">
-    <img src="/images/EVCS_location.jpg"
-         alt="EVCS"
+    <img src="/images/mobility_hub.jpg"
+         alt="Mobility_hub"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
   </a>
