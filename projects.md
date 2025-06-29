@@ -170,7 +170,7 @@ This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs t
 
 <div class="img-card">
   <a href="https://doi.org/10.1016/j.trd.2024.104255">
-    <img src="images/service_design.jpg"
+    <img src="/images/service_design.jpg"
          alt="Decision Support Tool"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
@@ -178,7 +178,7 @@ This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs t
 </div>
 <strong>
       <span>
-        Equity-aware Tool for Mobility Service Design
+        Mobility Service Decision Support Tool
       </span>
     </strong><br>
 We integrate synthetic population data and a choice-based optimization model to support large-scale mobility service region design with equity concerns. We test using New York State synthetic data and illustrate its application by considering new ride-hailing and microtransit services.
