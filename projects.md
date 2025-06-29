@@ -71,16 +71,16 @@ title: Projects
 Land use functions can categorize places where people perform different socioeconomic activities. However, mobility patterns might vary significantly even within the same land use function as conventionally defined. This project explores land use subcategorization using mobile phone-derived human activities. 
 
 <br>
+<br>
 
-<a href="https://urban.shanghai.nyu.edu/planning-environmentally">
-  <div class="img-card">
+<div class="img-card">
+  <a href="https://urban.shanghai.nyu.edu/planning-environmentally">
     <img src="/images/rhythmized_parks.jpg"
          alt="Rythmized Parks"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
-  </div>
-</a>
-<br>
+  </a>
+</div>
 <strong>
       <span>
         Planning for Rhythmized Urban Parks
@@ -89,16 +89,16 @@ Land use functions can categorize places where people perform different socioeco
 This project proposes a paradigm shift in classifying, programming, and designing parks. Utilizing 1.5 million mobile phone records, we classified 254 urban parks in Tokyo based on their visitation patterns across different times of the day, week, and year. 
 
 <br>
+<br>
 
-<a href="https://aaa">
-  <div class="img-card">
+<div class="img-card">
+  <a href="https://aaa">
     <img src="/images/twitter_topics.jpg"
          alt="Twitter topics"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
-  </div>
-</a>
-<br>
+  </a>
+</div>
 <strong>
       <span>
         Detecting Climate Change Perception Gaps using LLMs
@@ -106,7 +106,11 @@ This project proposes a paradigm shift in classifying, programming, and designin
     </strong><br>
 Our team integrated 195 Nationally Determined Contributions (NDCs) with approximately 400,000 climate-related Twitter posts from January to December 2022. We employed ClimateBERT to quantify global and city-level gaps between governmental action and public perception.
 
+<br>
+
 ---
+
+<br>
 
 ### Urban Computing and AI
 <div class="img-card">
