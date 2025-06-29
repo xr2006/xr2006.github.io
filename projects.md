@@ -55,6 +55,9 @@ title: Projects
 
 
 ### Urban Computing and AI
+
+---
+
 <div class="img-card">
   <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
     <img src="/images/mobility_pattern.jpg"
@@ -70,7 +73,6 @@ title: Projects
     </strong><br>
 Land use functions can categorize places where people perform different socioeconomic activities. However, mobility patterns might vary significantly even within the same land use function as conventionally defined. This project explores land use subcategorization using mobile phone-derived human activities. 
 
-<br>
 <br>
 
 <div class="img-card">
@@ -89,7 +91,6 @@ Land use functions can categorize places where people perform different socioeco
 This project proposes a paradigm shift in classifying, programming, and designing parks. Utilizing 1.5 million mobile phone records, we classified 254 urban parks in Tokyo based on their visitation patterns across different times of the day, week, and year. 
 
 <br>
-<br>
 
 <div class="img-card">
   <a href="https://aaa">
@@ -107,12 +108,12 @@ This project proposes a paradigm shift in classifying, programming, and designin
 Our team integrated 195 Nationally Determined Contributions (NDCs) with approximately 400,000 climate-related Twitter posts from January to December 2022. We employed ClimateBERT to quantify global and city-level gaps between governmental action and public perception.
 
 <br>
+<br>
+
+### Choice Modeling with Large-scale Dataset
 
 ---
 
-<br>
-
-### Urban Computing and AI
 <div class="img-card">
   <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
     <img src="/images/mobility_pattern.jpg"
