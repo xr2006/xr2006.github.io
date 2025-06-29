@@ -177,7 +177,7 @@ This project proposes a nonparametric mixed logit model that is estimated using 
         Modeling EV Charging Behavior using Individual Mobility Data
       </span>
     </strong><br>
-This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs that benefits not only EV drivers but also supports the economic growth of the community. We leverage mobility phone data and apply AMXL to EV charging behavior modeling in California.
+This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs that benefits not only EV drivers but also supports the economic growth of the community. We leverage mobility phone data and apply AMXL to EV charging behavior modeling in Bay Area.
 
 <br>
 
