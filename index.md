@@ -14,7 +14,7 @@ As an urban and transportation scientist, I focus on the intersection of **Urban
 
 - **Choice Modeling with Large-scale Dataset**: Developing nonparametric mixed logit models to estimate taste heterogeneity in activity schedules, travel modes, and multimodal trip routes; applying these models to assess the impacts of emerging services, congestion pricing, and EV charging infrastructure on mobility, economy, and social equity.
 
-- **Logistics Systems towards Transportation Equity**: Combining mathematical programming and equity metrics to support city- and state-wide mobility service design; quantifying trade-offs between transportation efficiency and equity, as well as among different stakeholder groups. 
+- **Equity-aware Transportation Logistics**: Combining mathematical programming and equity metrics to support city- and state-wide mobility service design; quantifying trade-offs between transportation efficiency and equity, as well as among different stakeholder groups. 
 
 ---
 

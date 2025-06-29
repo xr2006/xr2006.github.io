@@ -115,16 +115,110 @@ Our team integrated 195 Nationally Determined Contributions (NDCs) with approxim
 ---
 
 <div class="img-card">
-  <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
-    <img src="/images/mobility_pattern.jpg"
-         alt="Land use patterns"
+  <a href="https://doi.org/10.1016/j.trb.2022.11.005">
+    <img src="/images/AMXL_distribution.jpg"
+         alt="AMXL Distribution"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
   </a>
 </div>
 <strong>
       <span>
-        Human Mobility and Land Use Patterns
+        Agent-based Mixed Logit Model (AMXL)
       </span>
     </strong><br>
-Land use functions can categorize places where people perform different socioeconomic activities. However, mobility patterns might vary significantly even within the same land use function as conventionally defined. This project explores land use subcategorization using mobile phone-derived human activities. 
+We propose an agent-based mixed-logit model (AMXL) that is estimated with inverse optimization (IO) estimation. The method provides joint, individual-specific, and deterministic estimation, which overcomes the limitations of discrete choice models (DCMs) given ubiquitous datasets.
+
+<br>
+<br>
+
+<div class="img-card">
+  <a href="https://doi.org/10.1016/j.trb.2025.103220">
+    <img src="/images/GLAM_distribution.jpg"
+         alt="GLAM Distribution"
+         style="width:100%">
+    <div class="overlay"><span class="btn-view">More Details</span></div>
+  </a>
+</div>
+<strong>
+      <span>
+        Market-level Nonparametric Mixed Logit Model
+      </span>
+    </strong><br>
+This project proposes a nonparametric mixed logit model that is estimated using market-level choice share data. The model treats each market as an agent and represents taste heterogeneity through market-specific parameters by solving a multiagent inverse utility maximization problem.
+
+<br>
+<br>
+
+<div class="img-card">
+  <a href="https://aaa">
+    <img src="/images/EVCS_location.jpg"
+         alt="EVCS"
+         style="width:100%">
+    <div class="overlay"><span class="btn-view">More Details</span></div>
+  </a>
+</div>
+<strong>
+      <span>
+        Modeling EV Charging Behavior using Individual Mobility Data
+      </span>
+    </strong><br>
+This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs that benefits not only EV drivers but also supports the economic growth of the community. We leverage mobility phone data and apply AMXL to EV charging behavior modeling in California.
+
+<br>
+<br>
+
+### Equity-aware Transportation Logistics
+
+---
+
+<div class="img-card">
+  <a href="https://doi.org/10.1016/j.trb.2022.11.005">
+    <img src="/images/AMXL_distribution.jpg"
+         alt="AMXL Distribution"
+         style="width:100%">
+    <div class="overlay"><span class="btn-view">More Details</span></div>
+  </a>
+</div>
+<strong>
+      <span>
+        Agent-based Mixed Logit Model (AMXL)
+      </span>
+    </strong><br>
+We propose an agent-based mixed-logit model (AMXL) that is estimated with inverse optimization (IO) estimation. The method provides joint, individual-specific, and deterministic estimation, which overcomes the limitations of discrete choice models (DCMs) given ubiquitous datasets.
+
+<br>
+<br>
+
+<div class="img-card">
+  <a href="https://doi.org/10.1016/j.trb.2025.103220">
+    <img src="/images/GLAM_distribution.jpg"
+         alt="GLAM Distribution"
+         style="width:100%">
+    <div class="overlay"><span class="btn-view">More Details</span></div>
+  </a>
+</div>
+<strong>
+      <span>
+        Market-level Nonparametric Mixed Logit Model
+      </span>
+    </strong><br>
+This project proposes a nonparametric mixed logit model that is estimated using market-level choice share data. The model treats each market as an agent and represents taste heterogeneity through market-specific parameters by solving a multiagent inverse utility maximization problem.
+
+<br>
+<br>
+
+<div class="img-card">
+  <a href="https://aaa">
+    <img src="/images/EVCS_location.jpg"
+         alt="EVCS"
+         style="width:100%">
+    <div class="overlay"><span class="btn-view">More Details</span></div>
+  </a>
+</div>
+<strong>
+      <span>
+        Modeling EV Charging Behavior using Individual Mobility Data
+      </span>
+    </strong><br>
+This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs that benefits not only EV drivers but also supports the economic growth of the community. We leverage mobility phone data and apply AMXL to EV charging behavior modeling in California.
