@@ -57,7 +57,7 @@ title: Projects
 ### Urban Computing and AI
 <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
   <div class="img-card">
-    <img src="images/mobility_pattern.jpg"
+    <img src="/images/mobility_pattern.jpg"
          alt="Capture Pedestrian Flows"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
@@ -77,7 +77,7 @@ Land use functions can categorize places where people perform different socioeco
 
 <a href="https://doi-org.proxy.library.nyu.edu/10.1177/23998083221103261">
   <div class="img-card">
-    <img src="images/mobility_pattern.jpg"
+    <img src="/images/mobility_pattern.jpg"
          alt="Capture Pedestrian Flows"
          style="width:100%">
     <div class="overlay"><span class="btn-view">More Details</span></div>
