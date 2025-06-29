@@ -108,7 +108,6 @@ This project proposes a paradigm shift in classifying, programming, and designin
 Our team integrated 195 Nationally Determined Contributions (NDCs) with approximately 400,000 climate-related Twitter posts from January to December 2022. We employed ClimateBERT to quantify global and city-level gaps between governmental action and public perception.
 
 <br>
-<br>
 
 ### Choice Modeling with Large-scale Dataset
 
@@ -130,7 +129,6 @@ Our team integrated 195 Nationally Determined Contributions (NDCs) with approxim
 We propose an agent-based mixed-logit model (AMXL) that is estimated with inverse optimization (IO) estimation. The method provides joint, individual-specific, and deterministic estimation, which overcomes the limitations of discrete choice models (DCMs) given ubiquitous datasets.
 
 <br>
-<br>
 
 <div class="img-card">
   <a href="https://doi.org/10.1016/j.trb.2025.103220">
@@ -148,7 +146,6 @@ We propose an agent-based mixed-logit model (AMXL) that is estimated with invers
 This project proposes a nonparametric mixed logit model that is estimated using market-level choice share data. The model treats each market as an agent and represents taste heterogeneity through market-specific parameters by solving a multiagent inverse utility maximization problem.
 
 <br>
-<br>
 
 <div class="img-card">
   <a href="https://aaa">
@@ -165,7 +162,6 @@ This project proposes a nonparametric mixed logit model that is estimated using 
     </strong><br>
 This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs that benefits not only EV drivers but also supports the economic growth of the community. We leverage mobility phone data and apply AMXL to EV charging behavior modeling in California.
 
-<br>
 <br>
 
 ### Equity-aware Transportation Logistics
@@ -188,7 +184,6 @@ This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs t
 We integrate synthetic population data and a choice-based optimization model to support large-scale mobility service region design with equity concerns. We test using New York State synthetic data and illustrate its application by considering new ride-hailing and microtransit services.
 
 <br>
-<br>
 
 <div class="img-card">
   <a href="https://doi.org/10.48550/arXiv.2408.12577">
@@ -205,7 +200,6 @@ We integrate synthetic population data and a choice-based optimization model to 
     </strong><br>
 We propose a nested nonparametric model for joint travel mode and ride pass subscription choice, estimated using marginal subscription data and synthetic populations. We apply our methodology to a case study in Arlington, TX, using synthetic data from Replica Inc. and microtransit data from Via.
 
-<br>
 <br>
 
 <div class="img-card">
