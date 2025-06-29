@@ -218,7 +218,7 @@ We propose a nested nonparametric model for joint travel mode and ride pass subs
 </div>
 <strong>
       <span>
-        Modeling EV Charging Behavior using Individual Mobility Data
+        Mobility Hub Location Selection
       </span>
     </strong><br>
-This NSF-SAI project focuses on an equitable and efficient allocation of EVCSs that benefits not only EV drivers but also supports the economic growth of the community. We leverage mobility phone data and apply AMXL to EV charging behavior modeling in California.
+We combine data from a survey conducted by the Capital District Transportation Authority (CDTA) with a mode choice model estimated using Replica Inc.’s synthetic data. The framework is applied to the evaluation of potential hub candidates in the Albany-Schenectady-Troy metropolitan area.
