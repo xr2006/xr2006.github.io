@@ -8,7 +8,7 @@ I am currently a Postdoctoral Research Associate at the [C2SMART University Tran
 
 ---
 
-As an urban and transportation scientist, I focus on the intersection of **Urban Comptuing**, **Choice Modeling**, and **Transportation Logistics**:
+As an urban and transportation scientist, I focus on the intersection of **Urban Computing**, **Choice Modeling**, and **Transportation Logistics**:
 
 - **Urban Computing and AI**: Leaveraging mobility, image, and text data along with deep learning computation to explore land use patterns, urban park visits, and climate change sentiments.
 
