@@ -13,7 +13,7 @@ Four TA Sessions: Introduction to R; Statistics and regression models in R; Disc
 <br>
 
 #### Planning Global Cities
-***URPL-GP 2250, NYU  |  2025***
+***URPL-GP 2250, NYU  |  2025***   
 ***Guest Lecturer***
 <br>
 Two lectures on analyzing global cities using Safegraph and Twitter data.
