@@ -8,6 +8,8 @@ title: Publications
 
 ### Peer-reviewed Publications
 
+- <u>Ren, X.</u>, Guan, C.<sup>&#42;</sup>, Chen, S., You, M., Li, Y., Huang, K. (2025), **Planning for Rhythmized Urban Parks: Temporal Park Classification and Modes of Action**. *Journal of the American Planning Association*, 1-20. [[Paper]](https://doi.org/10.1080/01944363.2025.2523604)
+
 - <u>Ren, X.</u>, Chow, J. Y.<sup>&#42;</sup>, Bansal P. (2025). **Nonparametric mixed logit model with market-level parameters estimated from market share data**. *Transportation Research Part B: Methodological*, 196, 103220. [[Paper]](https://doi.org/10.1016/j.trb.2025.103220)
 
 - <u>Ren, X.</u>, Chow, J. Y.<sup>&#42;</sup>, & Guan, C. (2024). **Mobility service design with equity-aware choice-based decision-support tool: New York case study**. *Transportation Research Part D: Transport and Environment*, 132, 104255. [[Paper]](https://doi.org/10.1016/j.trd.2024.104255)
@@ -29,8 +31,6 @@ title: Publications
 <br>
 
 ### Papers Under Review/In Preparation
-
-- <u>Ren, X.</u>, Guan, C.<sup>&#42;</sup>, Chen, S., You, M., Li, Y., Huang, K., **Planning for Rhythmized Urban Parks: Temporal Park Classification and Modes of Action**. *Journal of the American Planning Association*, accepted.
 
 - Guan, C., <u>Ren, X.</u><sup>&#42;</sup>, Song, J., Keith, M., Akiyama, Y., Shibasaki, R., **Mobile phone-derived park visitation dynamics and policy implications: A case study of Tokyo**. *Cities*, under revision.
 
